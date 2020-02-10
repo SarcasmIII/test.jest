@@ -1,0 +1,28 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarcasmIII/test.jest.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarcasmIII/test.jest/issues"
+  },
+  "homepage": "https://github.com/SarcasmIII/test.jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  },
+  "files": [
+	"dist"
+  ]
+}
